@@ -1,0 +1,27 @@
+list-1:Read and Print List Elements
+2.Write a program to insert an element at a specified position in a list.
+3.Write a program to merge two lists using the extend() function.
+4.Write a program to search for an element in a list using the in operator.
+5.Write a program to search for an element in a list and delete it using the remove() function.
+6.(Same as no.5)
+7.Write a program to merge two lists and separate the even and odd numbers into two different lists.
+8.Write a program to separate two-digit numbers or (Double digit number) from a list into two different lists.
+9.Merge Two Sorted Lists Without Using extend()
+10.Extract the First Digit of Each Number in a List
+11.Find the Middle Digit of Odd Numbers and Display Even Numbers from a List
+
+13.Remove the First Occurrence of an Element and Append It to the End of a List
+14.Reverse Each Number in a List
+15.Interchange First and Last Digits of Each Number in a List
+16.Write a program to delete all the occurrences of an element from a list.
+17.Merge Two Lists Using extend() and sort()
+18.Rotate the Last Digit to the Front of Each Number in a List
+    expected output-------->
+    [1234, 5678, 9087, 246, 13579]
+    [4123, 8567, 7908, 624, 91357]
+19.Program to Calculate the Sum of Digits of Each Element in a List and Find the Element Having
+   the Maximum Sum of Digits Without Using an Additional List
+    [123, 456, 999, 2345, 321]
+    The numner is 999
+    And sum of digits is 27    
+20.Program to Calculate the Total Sum of All Individual Digits Present in list    
