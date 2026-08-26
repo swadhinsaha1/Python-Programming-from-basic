@@ -79,3 +79,9 @@ l=[2,35, 44,54,35,76,45,86,35,56]
 # n.remove(432)
 # #with element deleted fromthe list 
 # print(n)   
+
+
+# x = "Python"
+# ls = list(x)
+# print(ls)
+# # ['P', 'y', 't', 'h', 'o', 'n']
