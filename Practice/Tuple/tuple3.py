@@ -1,0 +1,10 @@
+# Count the Occurrences of a User-Entered Number in Two Tuples
+tp1=(34,56,76,44,97,23,34,5)
+tp2=(45,67,56,87,34,91,5,48)
+print(tp1)
+print(tp2)
+x=int(input("Enter the number looking for="))
+c1=tp1.count(x)
+c2=tp2.count(x)
+print(f"The number {x} is in tuple1 for {c1} times")
+print(f"The number {x} is in tuple2 for {c2} times")

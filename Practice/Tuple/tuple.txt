@@ -1,0 +1,10 @@
+1.Display a Tuple and Print Its Elements Using a for Loop and Tuple Unpacking
+2.Calculate the Sum of Every Element in a Tuple Using a for Loop
+3.Count the Occurrences of a User-Entered Number in Two Tuples
+4.Concatenate Two Tuples and Display Their Elements Using a for Loop
+5.Count the Occurrences of a User-Entered Number in a Tuple Without Using the count() Method
+6.Separate Tuple Elements into Single-Occurrence and Multi-Occurrence Lists
+7.Create a List from User Input and Convert It into a Tuple
+8.Search for and Delete a User-Entered Name from a Tuple Using a Loop
+9.Search for a Name in a Tuple and Replace It with a New Name Using Its Index
+10.Search for a Name in a Tuple and Replace It with a New Name Using Its Index
