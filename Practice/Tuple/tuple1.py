@@ -9,4 +9,4 @@ for x in tp:
 
 #printing all the elements without using for loop
 print()
-print(*tp)    
+print(*tp)  
