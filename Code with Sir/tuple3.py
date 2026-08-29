@@ -1,7 +1,0 @@
-tp=(12,18,16,28,24,34,38,41)
-tp1=(8,16,9,8,25,3,9,12,8,25,7)
-x=int(input("Enter a number of count="))
-p1=tp.count(x)
-p2=tp1.count(x)
-print(f"the number is in first tupple for {p1} times")
-print(f"the number is in second tupple for {p2} times")
