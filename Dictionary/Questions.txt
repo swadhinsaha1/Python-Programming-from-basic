@@ -1,0 +1,7 @@
+1.Python Dictionary Key, Value, and Item Traversal(just basics and introduction things)
+2.Merging Two Dictionaries and Displaying Key-Value Pairs
+3.Creating a Dictionary from User Input and Displaying Key-Value Pairs
+5.Creating a Dictionary with User-Defined Key and List Values
+                        &
+  Creating a Dictionary with Multiple Values for a Key and Displaying Them
+6.: Creating a Dictionary with Multiple Keys and List Values Using User Input
